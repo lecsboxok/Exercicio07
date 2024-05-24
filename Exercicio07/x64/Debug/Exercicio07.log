@@ -1,0 +1,5 @@
+﻿  Exercicio07.cpp
+C:\Users\44939984826\Documents\C++\Exercicio07\Exercicio07\Exercicio07.cpp(105,15): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\44939984826\Documents\C++\Exercicio07\Exercicio07\Exercicio07.cpp(109,21): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\44939984826\Documents\C++\Exercicio07\Exercicio07\Exercicio07.cpp(113,23): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Exercicio07.vcxproj -> C:\Users\44939984826\Documents\C++\Exercicio07\x64\Debug\Exercicio07.exe
